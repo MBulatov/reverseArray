@@ -23,7 +23,7 @@ void printError()
 
 int main()
 {
-	int number; // размерность массива
+	int number; // lenth array
 
 	std::cout << "Enter array lenth: ";
 	std::cin >> number;
